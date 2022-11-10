@@ -5,6 +5,8 @@
 
 - [부스트캠프 AI Tech](https://boostcamp.connect.or.kr/program_ai.html) - Product Serving 자료
 
+- 실습 내용 --> branch
+
 
 <br />
 
